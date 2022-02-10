@@ -130,5 +130,5 @@ xlrd            1.1.0
 
 | 时间 | 内容 | 标题 | 标签 | 链接 |
 | :--: | :--: | :--: | :--: | :--: |
-| time | str  | str  | str  | str  |
+| time | str  | str  | str  | str  | 
 
